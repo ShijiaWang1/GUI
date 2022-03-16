@@ -9,8 +9,6 @@ class KiloConverterGUI:
     def __init__(self):
         self.main_window = tkinter.Tk()
 
-        self.main_window.geometry("500x200")
-
         self.top_frame = tkinter.Frame(self.main_window)
         self.mid_frame = tkinter.Frame(self.main_window)
         self.bottom_frame = tkinter.Frame(self.main_window)
