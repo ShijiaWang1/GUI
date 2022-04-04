@@ -2,8 +2,6 @@ from cgitb import text
 import tkinter
 from turtle import left, width
 
-from click import command
-
 
 class KiloConverterGUI:
     def __init__(self):

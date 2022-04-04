@@ -2,7 +2,6 @@ from cgitb import text
 import tkinter
 from turtle import left, width
 
-from click import command
 
 
 class ExerciseGUI:

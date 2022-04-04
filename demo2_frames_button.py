@@ -2,7 +2,7 @@ from cgitb import text
 import tkinter
 from turtle import left
 
-from click import command
+
 
 
 class MyGUI:
