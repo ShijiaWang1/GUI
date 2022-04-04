@@ -2,7 +2,7 @@ from cgitb import text
 import tkinter
 from turtle import left
 
-from click import command
+
 
 
 class MyGUI:
@@ -49,6 +49,7 @@ class MyGUI:
 
         self.top_frame.pack(side="top")
         self.bottom_frame.pack(side="top")
+
 
         tkinter.mainloop()
 
